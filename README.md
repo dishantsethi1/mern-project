@@ -1,11 +1,11 @@
 #mern project 
 
-•  Developed a full-stack web application for Login/Logout and viewing personal Info using MERN etc., by following the industrial practices of Software Engineering.
+•  Developed a full-stack web application for doctor portal managment using MERN etc., by following the industrial practices of Software Engineering.
 
-• can get to know about total expenditure / add products to cart ( used State hooks ) etc
+• can book your appointment using login credentials ( using jwt authentication ) 
 
-• Single Page Web application using various React Hooks
+• SINGLE Page Web( no reload )  application using various React HOOKS and react COMPONENTS for repetition 
 
-• Used CRUD operations and middlewares
+• Used CRUD operations and middlewares for database handling 
 
-LIVE LINk: https://shopping-cart-dishant.herokuapp.com 
+LIVE LINk: https://online-doctors-portal.web.app
