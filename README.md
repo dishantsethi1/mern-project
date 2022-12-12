@@ -9,3 +9,7 @@
 • Used CRUD operations and middlewares for database handling 
 
 LIVE LINk: https://online-doctors-portal.web.app
+
+
+
+!!! SERVER part on other branch 
